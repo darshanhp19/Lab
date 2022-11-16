@@ -90,6 +90,7 @@ public class MultiThread1 {
 		t2.start();
 		t3.start();
 		
+		
 	}
 }
 		
